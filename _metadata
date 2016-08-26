@@ -1,0 +1,10 @@
+{
+  "author" : "Reika",
+  "description" : "Makes creatures capturable without hurting them first, for when you A) do not have a weapon that does not instakill and B) do not want to hurt the cute little Smoglins and Lumoths.",
+  "friendlyName" : "Healthy Capture",
+  "includes" : [],
+  "link" : "steam://url/CommunityFilePage/751146247",
+  "name" : "HealthyCapture",
+  "steamContentId" : "751146247",
+  "version" : "0.0.1"
+}
